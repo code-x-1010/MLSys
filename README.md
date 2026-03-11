@@ -79,7 +79,7 @@ For Track B (Agents):
 
 # Getting Started
 
-To help you get started, we have released a [separate GitHub repository](https://github.com/yarongmu-google/MLSys) containing several C++ files that define the basic problem and solution classes, along with various utilities. You are under no obligation to use these source codes.
+To help you get started, we have released several C++ files in [this repository](https://github.com/yarongmu-google/MLSys) that define the basic problem and solution classes, along with various utilities. You are under no obligation to use these source codes.
 
 | File | Description |
 | :---- | :---- |
